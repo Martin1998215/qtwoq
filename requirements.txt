@@ -87,6 +87,7 @@ mdurl==0.1.2
 mistune @ file:///C:/ci/mistune_1607359457024/work
 multidict==6.0.4
 murmurhash==1.0.10
+my-package==0.0.0
 mypy-extensions==1.0.0
 nbclassic @ file:///C:/b/abs_c8_rs7b3zw/croot/nbclassic_1681756186106/work
 nbclient @ file:///C:/ci/nbclient_1650290387259/work
