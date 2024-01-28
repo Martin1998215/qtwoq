@@ -15,10 +15,7 @@ from langchain.chains import ConversationChain, LLMChain
 from langchain.schema import BaseOutputParser
 from langchain.memory import ConversationBufferMemory
 
-os.environ["OPENAI_API_KEY"] = "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"
-
-
-# st.secrets["api1"]
+os.environ["OPENAI_API_KEY"] = st.secrets["api1"]
 
 # openai.api_key = 
 
